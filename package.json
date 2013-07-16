@@ -31,8 +31,8 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "when": "~2.2.1",
-    "grunt": "~0.4.0",
+    "when": "2.2.1",
+    "grunt": "~0.4.1",
     "grunt-ss-helpers": "0.0.9",
     "collections": "~0.1.15",
     "grunt-string-replace": "https://github.com/thanpolas/grunt-string-replace/tarball/7e6087974025bb5067f579f1124da493fce3527a",
@@ -42,7 +42,7 @@
     "pace": "0.0.4",
     "yaml": "~0.2.3",
     "async": "~0.2.8",
-    "knox": "~0.8.0",
+    "knox": "~0.8.4",
     "grunt-s3": "~0.2.0-alpha.1"
   },
   "devDependencies": {
