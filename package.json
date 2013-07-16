@@ -31,7 +31,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "when": "2.2.1",
+    "when": "~1.8.1",
     "grunt": "~0.4.1",
     "grunt-ss-helpers": "0.0.9",
     "collections": "~0.1.15",
